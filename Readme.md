@@ -4,15 +4,13 @@ Para sistema ou site com facilidade  para o usuário.
 Podendo logar com suas redes sociais.
 foi utilzado Html5, Css3 e JavaScript para interação das páginas.
 
-Como sempre, mantive o estilo no mínimo para você enlouquecer e torná-lo seu.
+Como sempre, mantive o estilo no mínimo para você.
 
-Licença MIT
+Licença GVRS
 
-Copyright (c) 2021 Ivanoel Rodrigo
+Copyright (c) 2023 Giordano Vilela
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar , publicar, distribuir, sublicenciar e / ou vender cópias do Software, e permitir que as pessoas a quem o Software é fornecido o façam, sujeito às seguintes condições:
-
-O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
+Aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
 
 * Tradução: Claro que você pode usar isso para seu projeto! Apenas certifique-se de dizer de onde você tirou isso :)
 
